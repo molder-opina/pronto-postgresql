@@ -1,6 +1,6 @@
 # Pronto PostgreSQL
 
-Docker Compose configuration for PostgreSQL 13.
+Docker Compose configuration for PostgreSQL 16.
 
 ## Quick Start
 
@@ -18,4 +18,4 @@ Edit `.env` to customize:
 
 ## Services
 
-- **PostgreSQL**: `postgres:13-alpine` on port 5432
+- **PostgreSQL**: `postgres:16-alpine` on port 5432
